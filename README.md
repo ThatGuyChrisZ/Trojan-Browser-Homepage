@@ -1,1 +1,2 @@
-# Trojan-Browser-Homepage
+# C-Browser
+[chrome app]
